@@ -119,5 +119,11 @@ Based on the analysis, we recommend the following actions to improve sales perfo
 Focus on Underperforming Regions:
 - Tailor campaigns for the West region to boost sales and expand market reach.
 
+## Related Projects
+Check out the related project [Project 2](https://github.com/your-username/project-2-repo).
+ 
+
+
+
 
   
