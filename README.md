@@ -82,3 +82,22 @@ WHERE OrderID NOT IN (
 ![pivot table 2 for sales Data](https://github.com/user-attachments/assets/c45c0d5e-043f-482d-80a0-d29d6a6314ed)
 
 ![Screenshot 2024-11-05 110946](https://github.com/user-attachments/assets/a2375c72-cd41-4143-b1f3-53a4649c2b08)
+
+## Insights and Key Findings
+#### Top 3 Products by Total sales
+- shoes (30875000)
+- shirt (2450000)
+- Gloves (1587500)
+- Insight: Shoes leads in the total sales, suggesting a focus on this product line for promotion
+#### Rgional Analysis
+- South and East regions generated highest revenue while the west lagged behind
+- Recommendation: Consider region-specific marketing to boost sales in the west.
+
+## Conclusion and Recommendations
+Based on the analysis, we recommend the following actions to improve sales performance Increase Marketing for Top products
+- Invest in campaigns for shoes and shirt, as they generate the highest revenue
+Focus on Underperforming Regions:
+- Tailor campaigns for the West region to boost sales and expand market reach.
+
+
+  
