@@ -77,4 +77,8 @@ WHERE OrderID NOT IN (
     )
 ```
 ## Data Visualization
+
+
+![Pivot table for Sales Data Analysis](https://github.com/user-attachments/assets/f210024b-9837-4370-a455-faa3fa7d68cb)
+
 ![Screenshot 2024-11-05 110946](https://github.com/user-attachments/assets/a2375c72-cd41-4143-b1f3-53a4649c2b08)
