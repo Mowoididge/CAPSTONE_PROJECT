@@ -5,21 +5,21 @@ This project provides an in-depth analysis of a sales dataset to uncover key ins
 performance, and monthly sales trends.. The primary objective is to identify high-performing products, analyze seasonal trends, and provide actionable insights for improving sales strategies.
 ## Project Outline
 
-### [Project Overview](project-overview)
+### [Project Overview](#project-overview)
 
-### [Tools Used](tools-used)
+### [Tools Used](#tools-used)
 
-### [Data Cleaning and Preparation](data-cleaning-and-preparation)
+### [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
-### [Exploratory Data Analysis](exploratory-data-analysis)
+### [Exploratory Data Analysis](#exploratory-data-analysis)
 
-### [Data Analysis](data-analysis)
+### [Data Analysis](#data-analysis)
 
-### [Data Visualization](data-analysis)
+### [Data Visualization](#data-analysis)
 
-### [Insights and Key Findings](insights-and-key-findings)
+### [Insights and Key Findings](#insights-and-key-findings)
 
-## [Conclusion and Recommendations](conclusions-and-recommendations)
+## [Conclusion and Recommendations](#conclusions-and-recommendations)
 
 
 ## Data Sources
