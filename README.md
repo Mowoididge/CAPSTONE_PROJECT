@@ -77,5 +77,7 @@ WHERE OrderID NOT IN (
     )
 ```
 ## Data Visualization
+https://github.com/Mowoididge/CAPSTONE_PROJECT/blob/main/Screenshot%202024-11-05%20110946.png
+
 
 
