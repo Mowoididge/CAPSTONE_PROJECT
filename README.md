@@ -103,6 +103,7 @@ WHERE OrderID NOT IN (
 ![Screenshot 2024-11-05 110946](https://github.com/user-attachments/assets/a2375c72-cd41-4143-b1f3-53a4649c2b08)
 
 ## Insights and Key Findings
+
 #### Top 3 Products by Total sales
 - shoes (30875000)
 - shirt (2450000)
